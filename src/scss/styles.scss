@@ -9,10 +9,7 @@
 // Import Bootstrap styles
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
-ul:hover{
-  color:#fff; 
-  background:transparent; 
-  text-decoration:underline; 
-} 
 // Import partials here
-
+@import 'nav';
+@import 'jumbotron';
+@import 'other';

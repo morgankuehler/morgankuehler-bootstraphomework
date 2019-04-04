@@ -1,0 +1,18 @@
+.nav-link {
+  text-decoration: none;
+}
+.nav-link:hover{
+  text-decoration:underline;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: bold;
+}

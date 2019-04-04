@@ -6312,7 +6312,49 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6; } }
 
-ul:hover {
-  color: #fff;
-  background: transparent;
+.nav-link {
+  text-decoration: none; }
+
+.nav-link:hover {
   text-decoration: underline; }
+
+a:visited {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: underline; }
+
+a:active {
+  text-decoration: bold; }
+
+.jumbotron {
+  background: url(/media/pirate-ship.jpg) no-repeat center;
+  background-size: cover;
+  color: white;
+  padding-top: 12rem; }
+
+html {
+  height: 100%;
+  margin: 0; }
+
+body {
+  font-family: serif;
+  height: 100%;
+  margin: 0; }
+
+.carousel {
+  margin-right: 2px; }
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: black;
+  text-align: center; }
+
+.message {
+  text-align: center; }
+
+.col-md-5 {
+  text-align: center; }
