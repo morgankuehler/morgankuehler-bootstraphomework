@@ -27,6 +27,39 @@ body {
   text-align: center;
 }
 
-.col-md-5 {
-  text-align: center;
+
+.carousel {
+  margin-bottom: 20px;
+  padding-right: 80px;
+  width:640px;
+  height:360px;
+}
+
+section {
+  margin: 25px 75px 10px;
+}
+
+p {
+  font-size: 1.25rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h5 {
+  font-size: 1.75rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.footer {
+  font-family: cursive
+}
+
+.piratepicture {
+  margin-top: 50px;
+  width:180px;
+  height:320px;
+}
+
+h1, h3 {
+  font-family: 'Dokdo', cursive;
+  font-size: 3rem
 }

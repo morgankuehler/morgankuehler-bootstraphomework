@@ -4,6 +4,7 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+@import url("https://fonts.googleapis.com/css?family=Dokdo");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -6356,5 +6357,31 @@ body {
 .message {
   text-align: center; }
 
-.col-md-5 {
-  text-align: center; }
+.carousel {
+  margin-bottom: 20px;
+  padding-right: 80px;
+  width: 640px;
+  height: 360px; }
+
+section {
+  margin: 25px 75px 10px; }
+
+p {
+  font-size: 1.25rem;
+  font-family: 'Courier New', Courier, monospace; }
+
+h5 {
+  font-size: 1.75rem;
+  font-family: 'Courier New', Courier, monospace; }
+
+.footer {
+  font-family: cursive; }
+
+.piratepicture {
+  margin-top: 50px;
+  width: 180px;
+  height: 320px; }
+
+h1, h3 {
+  font-family: 'Dokdo', cursive;
+  font-size: 3rem; }
